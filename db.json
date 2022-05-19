@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "lastName": "k",
+      "email": "kk",
+      "mobile": "kk",
+      "salary": "k"
+    },
+    {
+      "id": 6,
+      "lastName": "kkkkkkk",
+      "email": "kkkkkkkkk@gmail.com",
+      "mobile": "1212121212",
+      "salary": "121212121"
+    },
+    {
+      "id": 7,
+      "lastName": "gaikwad",
+      "email": "kmgaikwad97@gmail.com",
+      "mobile": "77777777",
+      "salary": "7777"
+    },
+    {
+      "id": 8,
+      "firstName": "kshitij",
+      "lastName": "gaikwad",
+      "email": "kmgaikwad97@gmail.com",
+      "mobile": "9664359608",
+      "salary": "25"
+    },
+    {
+      "id": 9,
+      "firstName": "vicky",
+      "lastName": "gaikwad",
+      "email": "vicky@gmail.com",
+      "mobile": "1212121221",
+      "salary": "1212"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
