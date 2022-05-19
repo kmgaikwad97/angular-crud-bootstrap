@@ -96,7 +96,7 @@ export class EmployeeDashboardComponent implements OnInit {
   }
 
   onEdit(row:any){
-    // hiding purpose
+    // hiding purposee
     this.showAdd = true
     this.showUpdate = false
 
